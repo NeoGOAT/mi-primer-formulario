@@ -1,0 +1,80 @@
+body {
+    background-color: rgb(34, 157, 100);
+}
+
+div {
+    position: relative;
+    background-color: rgb(86, 50, 121);
+    width: 620px;
+    height: 150px;
+    left: 25%;
+    text-align: center;
+}
+
+.tittle {
+    color: rgb(255, 255, 255);
+    -webkit-text-stroke: 2px rgb(0, 0, 0);
+    font-family: Georgia;
+    font-size: 60px;
+    background-color: rgba(187, 21, 49, 0.371);
+}
+
+.orden {
+    position: relative;
+    bottom: 11px;
+    background-color: rgba(218, 64, 123, 0.611);
+    font-family: serif;
+}
+
+.centrar {
+    position: relative;
+    text-align: center;
+    background-color: rgb(0, 255, 106);
+    height: 460px;
+}
+
+.NameIndicator {
+    position: relative;
+    left: 40px;
+    top: 15px;
+    font-size: 30px;
+    background-color: rgb(91, 173, 138);
+    width: 110px;
+}
+
+.OthersIndicator {
+    position: relative;
+    left: 40px;
+    top: 15px;
+    font-size: 30px;
+    text-align: start;
+    background-color: rgb(91, 173, 138);
+    width: 220px;
+    height: 35px;
+}
+
+.CountryIndicator {
+    position: relative;
+    left: 40px;
+    top: 15px;
+    font-size: 30px;
+    text-align: start;
+    background-color: rgb(91, 173, 138);
+    width: 60px;
+    height: 35px;
+}
+
+.EmailIndicator{
+    position: relative;
+    left: 40px;
+    top: 15px;
+    font-size: 30px;
+    text-align: start;
+    background-color: rgb(91, 173, 138);
+    width: 80px;
+    height: 35px;
+}
+
+.edad {
+    position: relative;
+}
